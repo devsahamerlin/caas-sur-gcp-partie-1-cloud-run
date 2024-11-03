@@ -1,0 +1,11 @@
+{
+  "servicesAccount": {
+    "cloud-run-sa": {
+      "account_id": "cloud-run-sa",
+      "display_name": "SA to access Cloud Run API",
+      "roles": [
+        "roles/run.invoker"
+      ]
+    }
+  }
+}

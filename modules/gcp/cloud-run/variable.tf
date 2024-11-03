@@ -1,0 +1,24 @@
+#variable "name" {}
+#variable "gcp_region" {}
+#variable "image" {}
+#variable "cpu" {}
+#variable "memory" {}
+#variable "service_account_name" {}
+#variable "maxScale" {}
+#variable "minScale" {}
+#variable "target" {}
+#variable "traffic_percent" {}
+#variable "ingress" {}
+#variable "traffic_type" {}
+#variable "tags" {}
+#variable "project_id" {}
+#variable "cloud_run_port" {}
+
+variable "name" {}
+variable "gcp_region" {}
+variable "ingress" {}
+variable "service_account_name" {}
+variable "maxScale" {}
+variable "minScale" {}
+variable "image" {}
+variable "project_id" {}
