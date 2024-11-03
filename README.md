@@ -5,7 +5,7 @@
 #### GCP
 
 ```shell
-git clone -b caas/gcp-cloudrun-gke https://github.com/devsahamerlin/caas-sur-gcp-partie-1-cloud-run.git
+git clone https://github.com/devsahamerlin/caas-sur-gcp-partie-1-cloud-run.git
 cd ~/caas-sur-gcp-partie-1-cloud-run
 
 export PROJECT_ID=$(gcloud config get-value project)
