@@ -19,7 +19,7 @@ sudo chmod +x requirements.sh
 ./requirements.sh
 ```
 
-## Deploy on Cloud Run: 15 min
+## Deploy on Cloud Run
 
 ![Cloud-Run-GenAI.svg](images%2FCloud-Run-GenAI.svg)
 
