@@ -1,7 +1,5 @@
 # Gen AI Bootstrap Flask
 
-# `Note: I'm not the Autor of this code, but Google Cloud`
-
 This repo provides:
 
 1. A basic Flask app with bootstrap-flask for UI and flask-wtf for an input form. PDF parsing is also included via pypdf for this demo case (using langchain's importer).
